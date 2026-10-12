@@ -3,5 +3,6 @@ preciso comprar:
 maçã
 banana
 abacaxi
+goiaba
 
 essa e minha listar de conpras.
